@@ -1,11 +1,11 @@
 Português:
 **Bem-vindo ao meu GitHub!**
 
-Olá! 👋 Fico feliz em tê-lo aqui no meu GitHub. Este espaço é onde expresso minha paixão por aprender e desenvolver e mal posso esperar para compartilhar minha jornada com você.
+Olá! 👋 Fico feliz em tê-lo aqui no meu GitHub e compartilhar minha jornada com voce. Este espaço é onde expresso minha paixão por aprender e desenvolver.
 
 **Sobre Mim:**
 
-Eu sou Nickolas, curioso e entusiasta que adora explorar o fascinante mundo da programação, desenvolvimento de software e tecnologia. Este GitHub serve como um playground para meus projetos, experimentos e ideias, onde eu abraço a alegria da aprendizagem contínua e do crescimento.
+Me chamo Nickolas, sou curioso e entusiasta. Amo explorar o mundo da programação, desenvolvimento de software e tecnologia. Este GitHub serve como um playground para meus projetos, experimentos e ideias.
 
 English:
 **Welcome to my GitHub!**
